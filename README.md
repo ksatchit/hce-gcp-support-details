@@ -1,6 +1,6 @@
 # HCE Support for GCP 
 
-- [ ] HCE SMP Architecture Diagram On GCP [[image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/HCE-SMP-Architecture-Diagram-On-GCP.png)] [[Live Collaboration Link](https://excalidraw.com/#room=68a28ae7f6ac0df63cc9,VfK45r0Ku-EMdCSEvjLNeg)]
+- [x] HCE SMP Architecture Diagram On GCP [[image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/HCE-SMP-Architecture-Diagram-On-GCP.png)] [[Live Collaboration Link](https://excalidraw.com/#room=68a28ae7f6ac0df63cc9,VfK45r0Ku-EMdCSEvjLNeg)]
 - [ ] Google's suggestions for simulating zone failure 
 - [ ] HCE Approaches to AZ Failure for DRT
 - [ ] GKE AZ Access Loss/Failure Experiment for DRT 
