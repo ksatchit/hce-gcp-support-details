@@ -5,6 +5,7 @@
   - Involves preconfiguring VMs with scripts and shutting down instances 
 - [ ] HCE Approaches to AZ Failure for DRT
 - [ ] GKE AZ Access Loss/Failure Experiment for DRT 
+  - [x] Test Application Composition Diagram
   - [ ] Test Bed Deployment Diagram
   - [ ] Experiment Execution Approach Schematic
   - [ ] Experiment Configuration & Execution Screenshots (from HCE platform)
