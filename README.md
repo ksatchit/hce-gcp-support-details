@@ -4,6 +4,7 @@
 - [x] Google's suggestions for simulating zone failure [[Link](https://cloud.google.com/compute/docs/instance-groups/regional-mig-simulate-zonal-outage)]
   - Involves preconfiguring VMs with scripts and shutting down instances 
 - [ ] HCE Approaches to AZ Failure for DRT
+  - [x] Approach-1: Inject Network Blackhole On All Service Replicas In A Given Availability Zone [[Live Collaboration Link](https://excalidraw.com/#room=a4771ec76bfd4b2ffad3,ctv8jW6pJ07YfS7VdhlaAA)]
 - [ ] GKE AZ Access Loss/Failure Experiment for DRT 
   - [x] Test Application Composition Diagram
   - [ ] Test Bed Deployment Diagram
