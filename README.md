@@ -5,7 +5,7 @@
   - Involves preconfiguring VMs with scripts and shutting down instances 
 - [ ] HCE Approaches to AZ Failure for DRT
   - [x] Approach-1: Inject Network Blackhole On All Service Replicas In A Given Availability Zone [[Image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/HCE-AZ-Failure-Simulation-Approach-1.png)][[Live Collaboration Link](https://excalidraw.com/#room=a4771ec76bfd4b2ffad3,ctv8jW6pJ07YfS7VdhlaAA)]
-  - [ ] Approach-2: Manipulate state (Scale down/Shut down) Cloud Resources In A Given Availability Zone [[Live Collaboration Link](https://excalidraw.com/#room=cf92d9fcd245f786a462,bRROwBoYl6LJ7tYEf-hnKA)]
+  - [ ] Approach-2: Manipulate state (Scale down/Shut down) Cloud Resources In A Given Availability Zone [[Image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/HCE-AZ-Failure-Simulation-Approach-2.png)][[Live Collaboration Link](https://excalidraw.com/#room=cf92d9fcd245f786a462,bRROwBoYl6LJ7tYEf-hnKA)]
 - [ ] GKE AZ Access Loss/Failure Experiment for DRT 
   - [x] Test Application Composition Diagram
   - [ ] Test Bed Deployment Diagram
