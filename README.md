@@ -8,7 +8,7 @@
   - [x] Approach-2: Manipulate state (Scale down/Shut down) Cloud Resources In A Given Availability Zone [[Image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/HCE-AZ-Failure-Simulation-Approach-2.png)][[Live Collaboration Link](https://excalidraw.com/#room=cf92d9fcd245f786a462,bRROwBoYl6LJ7tYEf-hnKA)]
 - [ ] GCP AZ Access Loss/Failure Experiment for DRT 
   - [x] Test Application Composition Diagram [[image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/Bank-Of-Anthos.png)]
-  - [ ] Test Bed Deployment Diagram
+  - [ ] Test Bed Deployment Diagram (Setup Without Redundancy to Illustrate Application Downtime Upon AZ Failure Simulation)
   - [ ] Experiment Execution Approach Schematic
   - [ ] Experiment Configuration & Execution Screenshots (from HCE platform)
 - [ ] HCE Chaos & Observability  
