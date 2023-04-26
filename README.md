@@ -29,6 +29,7 @@
 - [ ] GCP AZ Access Loss/Failure Experiment for DRT 
   - [x] Test Application Composition Diagram [[image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/Bank-Of-Anthos.png)]
   - [ ] Test Bed Deployment Diagram (Setup Without Redundancy to Illustrate Application Downtime Upon AZ Failure Simulation)
+  - [ ] Test Bed Deployment Diagram (Setup With Redundancy to Illustrate Functional Application Upon AZ Failure Simulation)
   - [ ] Experiment Execution Approach Schematic
   - [ ] Experiment Configuration & Execution Screenshots (from HCE platform)
 
