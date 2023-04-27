@@ -21,8 +21,8 @@
 - [x] Google's suggestions for simulating zone failure [[Link](https://cloud.google.com/compute/docs/instance-groups/regional-mig-simulate-zonal-outage)]
   - Involves preconfiguring VMs with scripts and shutting down instances 
 - [x] HCE Approaches to GCP AZ Failure for DRT
-  - [x] Approach-1: Inject Network Blackhole On All Service Replicas In A Given Availability Zone [[Image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/HCE-AZ-Failure-Simulation-Approach-1.png)][[Live Collaboration Link](https://excalidraw.com/#room=a4771ec76bfd4b2ffad3,ctv8jW6pJ07YfS7VdhlaAA)]
-  - [x] Approach-2: Manipulate state (Scale down/Shut down) Cloud Resources In A Given Availability Zone [[Image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/HCE-AZ-Failure-Simulation-Approach-2.png)][[Live Collaboration Link](https://excalidraw.com/#room=cf92d9fcd245f786a462,bRROwBoYl6LJ7tYEf-hnKA)]
+  - [x] **Approach-1**: Inject Network Blackhole On All Service Replicas In A Given Availability Zone [[Image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/HCE-AZ-Failure-Simulation-Approach-1.png)][[Live Collaboration Link](https://excalidraw.com/#room=a4771ec76bfd4b2ffad3,ctv8jW6pJ07YfS7VdhlaAA)]
+  - [x] **Approach-2**: Manipulate state (Scale down/Shut down) Cloud Resources In A Given Availability Zone [[Image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/HCE-AZ-Failure-Simulation-Approach-2.png)][[Live Collaboration Link](https://excalidraw.com/#room=cf92d9fcd245f786a462,bRROwBoYl6LJ7tYEf-hnKA)]
 
 ### 2.2. Sample Implementation Of HCE Approach-1 (Blackhole) 
 
@@ -41,14 +41,17 @@
 
 ## 4. Fault Support for GCP Infra Components & Managed Services
 
-### Available/In-Progress (near-term) 
+### Available 
 
-  - GCP Compute Instance
+  - **GCP Compute Instance**
     - [x] Stop/Start Unmanaged Instance  
     - [x] Stop/Start Managed Instance
-  - GPD Block Devices
+  - **GPD Block Devices**
     - [x] Detach/Reattach GPD to Specific Instances 
-  - CloudSQL
+    
+### In-Progress (near-term) 
+
+  - **CloudSQL**
     - [x] Stop/Start Instance [master, failover (legacy config scheme), read-only]
     - [x] Trigger Failover (new config scheme with synchronous mirroring on disks) 
 
@@ -58,13 +61,13 @@
 
 *The faults described in the below list are mostly misconfiguration/state manipulation/access control faults on the services, which have a global impact.*  
 
-  - GCS
+  - **GCS**
     - [x] Modify ACLs    
-  - Pub/Sub 
+  - **Pub/Sub** 
     - [x] Modify Message Deadlines
     - [x] Delete Topics
     - [x] Modify ACLs
-  - Cloud Run Fns
+  - **Cloud Run Fns**
     - [x] Modify ACLs
 
 ## 5. SRE Aids for DRT: Guided Gameday, Reports & Dashboards 
