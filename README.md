@@ -39,19 +39,33 @@
    - [ ] Integration/Capabilities Summary 
    - [ ] Screenshots for chaos-annotated dashboards
 
-## 4. Fault Support 
- 
-- [ ] Chaos Support for GCP Infra components & Managed Services 
-  - [x] GCP Compute Instance
+## 4. Fault Support for GCP Infra Components & Managed Services
+
+### Available/In-Progress (near-term) 
+
+  - GCP Compute Instance
     - [x] Stop/Start Unmanaged Instance  
     - [x] Stop/Start Managed Instance
-  - [x] GPD Block Devices
+  - GPD Block Devices
     - [x] Detach/Reattach GPD to Specific Instances 
-  - [x] CloudSQL
+  - CloudSQL
     - [x] Stop/Start Instance [master, failover (legacy config scheme), read-only]
     - [x] Trigger Failover (new config scheme with synchronous mirroring on disks) 
-  - [ ] GCS
-  - [ ] Cloud Run Fns
+
+### Roadmap (mid-term)
+
+*Note: Using the current network, dns and http experiments in Kubernetes, failed dependencies involving the below services can already be injected/simulated. This approach also has a low-blast radius. 
+
+*The faults described in the below list are mostly misconfiguration/state manipulation/access control faults on the services, which have a global impact.  
+
+  - GCS
+    - [x] Modify ACLs    
+  - Pub/Sub 
+    - [x] Modify Message Deadlines
+    - [x] Delete Topics
+    - [x] Modify ACLs
+  - Cloud Run Fns
+    - [x] Modify ACLs
 
 ## 5. SRE Aids for DRT: Guided Gameday, Reports & Dashboards 
 
