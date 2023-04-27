@@ -11,7 +11,7 @@
 
 ### 1.3. HCE Setup Prerequisites
 
-- [ ] HCE SMP Setup Prerequisites
+- [x] HCE SMP Setup Prerequisites [[Link](https://github.com/ksatchit/hce-gcp-support-details/blob/main/HCE-SMP-Prerequisites.md)]
 - [x] Sample Roles/Permissions Required for GCP Chaos [[Link](https://github.com/ksatchit/hce-gcp-support-details/blob/main/Permissions.md)]
 
 ## 2. Example DRT Chaos Experiment: Simulation Of Availability Zone Failure 
