@@ -42,12 +42,16 @@
 ## 4. Fault Support 
  
 - [ ] Chaos Support for GCP Infra components & Managed Services 
-  - [ ] Fault Support
-    - [ ] GCP Compute Instance
-    - [ ] GPD Block Devices
-    - [ ] CloudSQL
-    - [ ] GCS
-    - [ ] Cloud Run Fns
+  - [x] GCP Compute Instance
+    - [x] Stop/Start Unmanaged Instance  
+    - [x] Stop/Start Managed Instance
+  - [x] GPD Block Devices
+    - [x] Detach/Reattach GPD to Specific Instances 
+  - [x] CloudSQL
+    - [x] Stop/Start Instance [master, failover (legacy config scheme), read-only]
+    - [x] Trigger Failover (new config scheme with synchronous mirroring on disks) 
+  - [ ] GCS
+  - [ ] Cloud Run Fns
 
 ## 5. SRE Aids for DRT: Guided Gameday, Reports & Dashboards 
 
