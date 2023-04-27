@@ -54,9 +54,9 @@
 
 ### Roadmap (mid-term)
 
-*Note: Using the current network, dns and http experiments in Kubernetes, failed dependencies involving the below services can already be injected/simulated. This approach also has a low-blast radius. 
+*Note: Using the current network, dns and http experiments in Kubernetes, failed dependencies involving the below services can already be injected/simulated. This approach also has a low-blast radius.* 
 
-*The faults described in the below list are mostly misconfiguration/state manipulation/access control faults on the services, which have a global impact.  
+*The faults described in the below list are mostly misconfiguration/state manipulation/access control faults on the services, which have a global impact.*  
 
   - GCS
     - [x] Modify ACLs    
