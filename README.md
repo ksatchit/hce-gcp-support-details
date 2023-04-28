@@ -13,6 +13,7 @@
 
 - [x] HCE SMP Setup Prerequisites [[Link](https://github.com/ksatchit/hce-gcp-support-details/blob/main/HCE-SMP-Prerequisites.md)]
 - [x] Sample Roles/Permissions Required for GCP Chaos [[Link](https://github.com/ksatchit/hce-gcp-support-details/blob/main/Permissions.md)]
+- [x] Setting up SSO access using Azure AD [[Link](https://learn.microsoft.com/en-us/azure/active-directory/saas-apps/harness-provisioning-tutorial)]
 
 ## 2. Example DRT Chaos Experiment: Simulation Of Availability Zone Failure 
 
