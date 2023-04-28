@@ -80,5 +80,6 @@
 
 ## 5. SRE Aids for DRT: Guided Gameday, Reports & Dashboards 
 
-- [ ] Guided Gameday Support In DRT Context 
+- [x] Guided Gameday Support In DRT Context 
+  - [x] Gameday Journey [[gameday-1](https://github.com/ksatchit/hce-gcp-support-details/blob/main/gameday-1.png)] [[gameday-2](https://github.com/ksatchit/hce-gcp-support-details/blob/main/gameday-2.png)] [[gameday-3](https://github.com/ksatchit/hce-gcp-support-details/blob/main/gameday-3.png)] [[gameday-4](https://github.com/ksatchit/hce-gcp-support-details/blob/main/gameday-4.png)] [[gameday-5](https://github.com/ksatchit/hce-gcp-support-details/blob/main/gameday-5.png)]  
    
