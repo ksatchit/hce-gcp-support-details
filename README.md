@@ -75,7 +75,7 @@
     - [x] Modify Message Deadlines
     - [x] Delete Topics
     - [x] Modify ACLs
-  - **Cloud Run Fns**
+  - **Cloud Run/Fns**
     - [x] Modify ACLs
 
 ## 5. SRE Aids for DRT: Guided Gameday, Reports & Dashboards 
