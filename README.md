@@ -6,7 +6,7 @@
 
 ### 1.2. Chaos Experiment Functional Flow Diagrams 
 
-- [ ] HCE Experiment Execution Functional Flow (Kubernetes & GCP Managed Services)[[image](link)][[Live Collaboration Link]()] [TODO] 
+- [ ] HCE Experiment Execution Functional Flow (Kubernetes & GCP Managed Services)[TODO] 
 - [x] HCE Experiment Execution Functional Flow (Linux/GCP Compute Instances) [[image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/HCE-Linux-Chaos-Experiment-Flow.png)][[Live Collaboration Link](https://excalidraw.com/#room=0140424485a7f1245b69,VQKNny2RueeCcYq-KaY8eg)]
 
 ### 1.3. HCE Setup Prerequisites
