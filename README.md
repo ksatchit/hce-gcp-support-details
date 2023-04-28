@@ -36,14 +36,14 @@
 
 ## 3. Observability Integrations 
 
-- [x] Native Chaos Metrics    
+- [x] **Native Chaos Metrics**   
   - [x] Chaos Prometheus Metrics [[Image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/Chaos-Prometheus-Metrics.png)]
   - [x] Screenshot for chaos-annotated Grafana dashboard [[Image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/Chaos-Annotated-Dashboard-On-Grafana.png)]
-- [x] Observability Integrations via SRM 
+- [x] **Observability Integrations via Pipelines** 
   - [x] Continuous Verification Step in Harness Pipelines [[Image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/Continuous-Verification-Pipeline-Step.png)] 
   - [x] Anomaly Detection via CV [[Image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/Anomaly-Detection-Via-CV.png)]
   - [x] Possible Observability Integrations/Health Sources In Harness [[image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/Possible-Observability-Integrations-In-Harness.png)]
-- [x] Chaos Integration With SRM
+- [x] **Chaos Integration With SRM**
   - [x] Opt-In Model To Generate SRM Events Upon Chaos [[image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/Opt-In-Mechanism-For-SRM-Events.png)]
   - [x] Chaos As A Change Event Source To Track SLO/Error Budget [[image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/Chaos-As-A-Change-Event-Source-In-SRM.png)]
 
