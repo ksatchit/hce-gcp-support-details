@@ -6,7 +6,6 @@
 
 ### 1.2. Chaos Experiment Functional Flow Diagrams 
 
-- [ ] HCE Experiment Execution Functional Flow (Kubernetes & GCP Managed Services)[TODO] 
 - [x] HCE Experiment Execution Functional Flow (Linux/GCP Compute Instances) [[image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/HCE-Linux-Chaos-Experiment-Flow.png)][[Live Collaboration Link](https://excalidraw.com/#room=0140424485a7f1245b69,VQKNny2RueeCcYq-KaY8eg)]
 
 ### 1.3. HCE Setup Prerequisites
@@ -32,7 +31,7 @@
   - [x] Test Bed Deployment Diagram - Setup Without Redundancy to Illustrate Application Downtime Upon AZ Failure Simulation [[image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/App-Setup-Without-Redundancy.png)][[Live Collaboration Link](https://excalidraw.com/#room=a1e41248ac23284542f6,p190EVKJurRAMTerRJSzWw)]
   - [x] Test Bed Deployment Diagram - Setup With Redundancy to Illustrate Functional Application Upon AZ Failure Simulation [[image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/App-Setup-With-Redundancy.png)][[Live Collaboration Link](https://excalidraw.com/#room=438dd3cbeb5b0160ed7e,9wNjAzWlk3fJJHOh7LRAHw)]
   - [x] Experiment Execution Approach Schematic [[image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/Experiment-Execution-Approach-Schematic.png)][[Live Collaboration Link](https://excalidraw.com/#room=ce19994b332c23537ea6,ORPUILw7vEiq9zPnNchBVw)]
-  - [x] Experiment Configuration & Execution Screenshots (from HCE platform) [TODO]
+
 
 ## 3. Observability Integrations 
 
