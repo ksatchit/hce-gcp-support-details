@@ -30,7 +30,7 @@
   - [x] Test Application Composition Diagram [[image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/Bank-Of-Anthos.png)]
   - [x] Test Bed Deployment Diagram - Setup Without Redundancy to Illustrate Application Downtime Upon AZ Failure Simulation [[image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/App-Setup-Without-Redundancy.png)][[Live Collaboration Link](https://excalidraw.com/#room=a1e41248ac23284542f6,p190EVKJurRAMTerRJSzWw)]
   - [x] Test Bed Deployment Diagram - Setup With Redundancy to Illustrate Functional Application Upon AZ Failure Simulation [[image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/App-Setup-With-Redundancy.png)][[Live Collaboration Link](https://excalidraw.com/#room=438dd3cbeb5b0160ed7e,9wNjAzWlk3fJJHOh7LRAHw)]
-  - [x] Experiment Execution Approach Schematic [[image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/Experiment-Execution-Approach-Schematic.png)][[Live Collaboration Link](https://excalidraw.com/#room=ce19994b332c23537ea6,ORPUILw7vEiq9zPnNchBVw)]
+  - [x] Experiment Execution Approach Schematic [[image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/Experiment-Execution-Approach-Schematic.png)][[Live Collaboration Link](https://excalidraw.com/#room=ce19994b332c23537ea6,ORPUILw7vEiq9zPnNchBVw)] [[image](https://github.com/ksatchit/hce-gcp-support-details/blob/main/Experiment-Execution-Approach-Simple.png)]
 
 
 ## 3. Observability Integrations 
